@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.backgroundimage{
+    width: 70%;
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+body{
+    background-color:gray;
+}
+form{
+    padding-right: 10px;
+}
+label{
+    padding-right: 10px;
+     text-align: right;
+}
+
+.logo{
+   width: 400px;
+   height: 100px;
+   padding-left: 2%;
+}
+.bannerHeadder{
+    font-family: sans-serif;
+    color:#9cff00 ;
+}
+.info{
+    padding: 0 0 0 10px;
+}
+.year {
+    padding-right: 300px;
+}
+.year1 {
+    padding-right: 300px;
+}
+.instructor{
+    color:9cff00;
+    background-color: beige;
+    
+}
+.options label{
+    padding: 5px;
+    padding-left: 20px;
+}
+.course{
+    color:9cff00;
+    background-color: beige;
+    
+}
+.course1{
+    font-size: x-large;
+    background-color: beige
+}
+header{
+    background-color: #a8b8d0;
+}
